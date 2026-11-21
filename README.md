@@ -7,10 +7,9 @@
 
 **Investigator:** Alexander Cox  
 **Project type:** Individual, authorized reconnaissance exercise  
-**Original lab:** *Penetration Testing Bandoo Enterprise — Lab 1*  
+**Original lab:** *Penetration Testing Bandoo Enterprise  
 **Course:** Penetration Testing, Ethical Hacking and Network Defense  
 **Institution:** Caribbean Maritime University  
-**Lab date:** December 4, 2025
 
 ## Objective
 
@@ -40,8 +39,7 @@ The assignment described an IP range containing the target, but the evidence doc
 | Actual tested scope | **One host: `165.227.109.244`** |
 | Testing type | Authorized active host and service reconnaissance |
 
-> **Authorization:** The original assignment describes this system as supplied for a controlled ethical-hacking engagement. These commands should only be used against systems you own or have explicit authorization to assess. This README documents past lab results; it is not a request to rescan the public host.
-
+> **Authorization:** This system was supplied for a controlled ethical-hacking engagement. These commands should only be used against systems you own or have explicit authorization to assess. This README documents past lab results.
 ## Lab workflow and logical path
 
 ```text
